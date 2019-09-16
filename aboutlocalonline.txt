@@ -1,0 +1,4 @@
+The local online is a delivery app trough which customers can order food, meat, grocery, vegetables, fruits, and many services. 
+This app uses following permissions:
+1. Users GPS location to deliver the customers location.
+2. Activity starter to get updates if the app gets updated.
